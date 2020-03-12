@@ -7,6 +7,11 @@
         android:layout_height="match_parent"
         tools:context=".MainActivity">
 
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:id="@+id/Linearlayout">
+    </LinearLayout>
     <Button
             android:text="Покормить кота"
             android:layout_width="wrap_content"
